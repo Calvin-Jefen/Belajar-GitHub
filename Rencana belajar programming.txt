@@ -1,0 +1,6 @@
+Rencana Belajar :
+  - Python
+  - HTML
+  - CSS
+  - JavaScript
+  - Framework
