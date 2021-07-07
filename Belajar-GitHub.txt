@@ -3,9 +3,9 @@ Belajar GitHub :
  - Belajar Command Command Github
  - Belajar fitur fitur GitHub
  - belajar struktur data
-    * Array
-    * tree
- 
+    * List
+    * pointer
+    * Linked list
  setalah bisa :
   - belajar untuk mengimplementasikan GiHub
   - Mendalami Programming
