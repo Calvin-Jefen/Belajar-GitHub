@@ -9,3 +9,4 @@ Belajar GitHub :
  setalah bisa :
   - belajar untuk mengimplementasikan GiHub
   - Mendalami Programming
+  - latihan latihan latihan
