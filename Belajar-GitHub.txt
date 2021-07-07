@@ -1,5 +1,5 @@
 Belajar GitHub :
- - Belajar Dasar GitHub
+
  - Belajar Command Command Github
  - Belajar fitur fitur GitHub
  - belajar struktur data
@@ -9,3 +9,4 @@ Belajar GitHub :
  setalah bisa :
   - belajar untuk mengimplementasikan GiHub
   - Mendalami Programming
+  - latihan latihan latihan
