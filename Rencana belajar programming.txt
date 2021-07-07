@@ -4,3 +4,5 @@ Rencana Belajar :
   - CSS
   - JavaScript
   - Framework
+  
+  Framework pelan pelan saja
